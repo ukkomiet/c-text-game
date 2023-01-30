@@ -1,0 +1,2 @@
+Bil 12 0 Dagger 4
+Smergle 300 0 FireBoom 40
